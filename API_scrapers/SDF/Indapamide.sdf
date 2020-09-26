@@ -1,0 +1,3 @@
+Status: 501
+Code: PUGREST.Unimplemented
+Message: Cannot (yet) generate 3D coordinates for structures without an existing CID
